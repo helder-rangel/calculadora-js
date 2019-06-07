@@ -19,7 +19,7 @@
 
 ## Contatos
 
-Joyce Sena – *Instagram:[@joyce_dev] (https://www.linkedin.com/in/joyce-sena-431b1670/) – joycesenafullstack@gmail.com
+Joyce Sena – Instagram:[@joyce_dev] Linkedin:(https://www.linkedin.com/in/joyce-sena-431b1670/) – Email:joycesenafullstack@gmail.com
 
 
 

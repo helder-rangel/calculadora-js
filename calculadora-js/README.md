@@ -11,7 +11,9 @@
 * Porcentagem
 
 ## Contém na calculadora:
-* Visor com data, hora/minuto/segundos e dia/mês/ano
+* Data 
+* hora/minuto/segundo
+* dia/mês/ano
 * Botões AC
 * Botões CE
 * Botões de adição, subtração, divisão, porcentagem, igual, ponto e  números de 0 a 9

@@ -11,7 +11,6 @@
 * Porcentagem
 
 ## Contém na calculadora:
-* Data 
 * Hora/minuto/segundo
 * Dia/mês/ano
 * Botões AC

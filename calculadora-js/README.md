@@ -12,8 +12,8 @@
 
 ## Contém na calculadora:
 * Data 
-* hora/minuto/segundo
-* dia/mês/ano
+* Hora/minuto/segundo
+* Dia/mês/ano
 * Botões AC
 * Botões CE
 * Botões de adição, subtração, divisão, porcentagem, igual, ponto e  números de 0 a 9
